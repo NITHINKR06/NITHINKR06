@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Nithin Poojary</h1>
+<h1 align="center">I'm Nithin Poojary</h1>
 <h3 align="center">I'm a passionate frontend developer from India</h3>
 
 - 🌱 I’m currently learning **React Native, etc..**
