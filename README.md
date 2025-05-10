@@ -1,36 +1,36 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=2986CC&center=true&vCenter=true&random=false&width=600&lines=%F0%9F%91%8B+Hello+World!+I'm+Nithin+K R" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=2986CC&center=true&vCenter=true&random=false&width=600&lines=%F0%9F%91%8B+Hello+World!+I'm+NITHIN+K+R" alt="Typing SVG" />
 </h1>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=nithinkr06&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Nithin K R GitHub Stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithinK R&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" alt="Nithin K R Top Languages" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=NITHINKR06&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="NITHIN K R GitHub Stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NITHINKR06&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" alt="NITHIN K R Top Languages" />
 </p>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nithinK R&theme=algolia&row=1&column=6&margin-h=15&margin-w=5&no-bg=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=NITHINKR06&theme=algolia&row=1&column=6&margin-h=15&margin-w=5&no-bg=true" alt="GitHub Trophies" />
 </div>
 
 <br>
 
 <div align="center">
-  <img alt="Snake Animation" src="https://github.com/nithinK R/nithinK R/blob/output/github-contribution-grid-snake.svg">
+  <img alt="Snake Animation" src="https://github.com/NITHINKR06/NITHINKR06/blob/output/github-contribution-grid-snake.svg">
 </div>
 
 <br>
 
 <div align="center">
   <p>
-    <a href="https://github.com/nithinK R/github-readme-activity-graph">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=nithinK R&bg_color=0d1117&color=00bfbf&line=00bfbf&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
+    <a href="https://github.com/NITHINKR06/github-readme-activity-graph">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=NITHINKR06&bg_color=0d1117&color=00bfbf&line=00bfbf&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
     </a>
   </p>
 </div>
 
 <!-- Profile views counter -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=nithinK R&color=blue" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=NITHINKR06&color=blue" alt="Profile views" />
 </div>
 
 <br>
@@ -38,7 +38,8 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px"> About Me
 
 ```javascript
-const nithinK R = {
+const nithinKR = {
+  fullName: "NITHIN K R",
   location: "India",
   profession: "Frontend Developer",
   currentFocus: "React Native",
@@ -67,7 +68,7 @@ const nithinK R = {
   <a href="mailto:nithinpoojari717@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://github.com/nithinK R">
+  <a href="https://github.com/NITHINKR06">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com">
@@ -113,7 +114,7 @@ const nithinK R = {
 ## <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Flexed%20Biceps.png" width="30"> GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=nithinK R&theme=react&hide_border=true&bg_color=0D1117" alt="Nithin's streak stats"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=NITHINKR06&theme=react&hide_border=true&bg_color=0D1117" alt="Nithin's streak stats"/>
 </div>
 
 <br>
@@ -124,6 +125,12 @@ const nithinK R = {
 
 <br>
 
+<div align="center">
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=NITHINKR06&langs_count=8&custom_title=This%20Week%20I%20Spent%20My%20Time%20On&theme=radical&hide_border=true&layout=compact&bg_color=0D1117" alt="Wakatime Stats" />
+  </a>
+</div>
+
 <h2 align="center">
   <img src="https://github.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/blob/master/Emojis/Travel%20and%20places/Rocket.png" width="30"> 
   My Contributions Graph
@@ -132,7 +139,7 @@ const nithinK R = {
 <!-- GitHub contribution calendar alternative - a 3D calendar -->
 <div align="center">
   <a href="https://github.com/NITHINKR06/NITHINKR06">
-    <img width="900em" alt="Contribution Calendar" src="https://github-readme-activity-graph.vercel.app/graph?username=nithinK R&theme=react-dark&hide_border=true&area=true">
+    <img width="900em" alt="Contribution Calendar" src="https://github-readme-activity-graph.vercel.app/graph?username=NITHINKR06&theme=react-dark&hide_border=true&area=true">
   </a>
 </div>
 
@@ -143,10 +150,14 @@ const nithinK R = {
   Thanks for visiting!
 </h2>
 
+<div align="center">
+  <img src="https://i.pinimg.com/originals/aa/59/d1/aa59d139b93dde70ff207187c9f1d8bd.gif" width="500" />
+</div>
+
 <!-- Instructions for the user to set up the snake animation -->
 <!-- 
 To set up the snake animation:
-1. Fork this repo: https://github.com/nithinK R/nithinK R
+1. Fork this repo: https://github.com/NITHINKR06/NITHINKR06
 2. Add this file as .github/workflows/snake.yml:
 
 name: Generate Snake
@@ -164,7 +175,7 @@ jobs:
       - uses: Platane/snk@master
         id: snake-gif
         with:
-          github_user_name: nithinK R
+          github_user_name: NITHINKR06
           svg_out_path: dist/github-contribution-grid-snake.svg
       - uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
@@ -174,4 +185,4 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 -->
 
-<!-- Replace all instances of 'nithinK R' with your actual GitHub username -->
+<!-- Replace all instances of 'NITHINKR06' with your actual GitHub username if it changes -->
