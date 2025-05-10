@@ -8,6 +8,31 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithinpoojary&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" alt="Nithin Poojary Top Languages" />
 </p>
 
+<br>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px"> About Me
+
+```javascript
+const nithinPoojary = {
+  location: "India",
+  profession: "Frontend Developer",
+  currentFocus: "React Native",
+  learning: ["AWS", "TypeScript", "Flutter"],
+  skills: {
+    languages: ["JavaScript", "TypeScript", "HTML", "CSS", "Python", "Java", "C"],
+    libraries: ["React", "React Native", "Vue.js", "Node.js"],
+    frameworks: ["Express", "Bootstrap", "Tailwind CSS"],
+    databases: ["MongoDB", "MySQL"],
+    tools: ["Git", "Docker", "AWS", "Firebase", "Figma", "Photoshop"]
+  },
+  hobbies: ["Coding", "Design", "Problem Solving"],
+  contact: "nithinpoojari717@gmail.com"
+};
+```
+
+
+<br>
+
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=nithinpoojary&theme=algolia&row=1&column=6&margin-h=15&margin-w=5&no-bg=true" alt="GitHub Trophies" />
 </div>
@@ -32,28 +57,6 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=nithinpoojary&color=blue" alt="Profile views" />
 </div>
-
-<br>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px"> About Me
-
-```javascript
-const nithinPoojary = {
-  location: "India",
-  profession: "Frontend Developer",
-  currentFocus: "React Native",
-  learning: ["AWS", "TypeScript", "Flutter"],
-  skills: {
-    languages: ["JavaScript", "TypeScript", "HTML", "CSS", "Python", "Java", "C"],
-    libraries: ["React", "React Native", "Vue.js", "Node.js"],
-    frameworks: ["Express", "Bootstrap", "Tailwind CSS"],
-    databases: ["MongoDB", "MySQL"],
-    tools: ["Git", "Docker", "AWS", "Firebase", "Figma", "Photoshop"]
-  },
-  hobbies: ["Coding", "Design", "Problem Solving"],
-  contact: "nithinpoojari717@gmail.com"
-};
-```
 
 <br>
 
