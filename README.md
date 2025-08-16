@@ -222,6 +222,12 @@ I'm a passionate **Frontend Developer** from India, specializing in modern web a
   <p>Feel free to reach out if you want to collaborate on any project or just have a chat about technology!</p>
 </div>
 
+---
+
+<div align="center">
+  <a href="https://hits.sh/nithinkr06.vercel.app/"><img alt="Hits" src="https://hits.sh/nithinkr06.vercel.app.svg?label=%F0%9F%91%80view&extraCount=1&color=f350ef&labelColor=d9d6d6"/></a>
+</div>
+
 <!-- Instructions for the user to set up the snake animation -->
 <!-- 
 To set up the snake animation:
