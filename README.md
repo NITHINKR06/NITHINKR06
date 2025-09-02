@@ -131,54 +131,6 @@ I'm a passionate **Frontend Developer** from India, specializing in modern web a
 
 </div>
 
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=nithinpoojary&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&custom_title=💻%20GitHub%20Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=nithinpoojary&theme=tokyonight&hide_border=true&custom_title=🔥%20Streak%20Stats"/>
-</div>
-
-<div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithinpoojary&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&custom_title=🌟%20Most%20Used%20Languages&card_width=600"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nithinpoojary&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true&custom_title=📈%20Contribution%20Activity&height=350" alt="Contribution Graph"/>
-</div>
-
-### 📈 GitHub Metrics
-
-<div align="center">
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nithinpoojary&theme=tokyonight" alt="Profile Summary"/>
-  
-</div>
-
-<div align="center">
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nithinpoojary&theme=tokyonight"/>
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nithinpoojary&theme=tokyonight"/>
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nithinpoojary&theme=tokyonight&utcOffset=5.5"/>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nithinpoojary&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
-</div>
-
----
-<!--
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nithinpoojary&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true" alt="Contribution Graph"/>
-</div>
-
--->
 
 ## 🌐 Connect With Me
 
@@ -198,12 +150,10 @@ I'm a passionate **Frontend Developer** from India, specializing in modern web a
   ### 💭 Random Dev Quote
   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
   
-  ---
   
   ### 👀 Profile Views
   ![](https://komarev.com/ghpvc/?username=nithinpoojary&color=blueviolet&style=flat-square&label=Profile+Views)
   
-  ---
   
   **✨ "Code is like humor. When you have to explain it, it's bad." – Cory House**
 
@@ -215,7 +165,6 @@ I'm a passionate **Frontend Developer** from India, specializing in modern web a
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
----
 
 <div align="center">
   <h3>Thanks for visiting! 😊</h3>
@@ -224,9 +173,6 @@ I'm a passionate **Frontend Developer** from India, specializing in modern web a
 
 ---
 
-<div align="center">
-  <a href="https://hits.sh/nithinkr06.vercel.app/"><img alt="Hits" src="https://hits.sh/nithinkr06.vercel.app.svg?label=%F0%9F%91%80view&extraCount=1&color=f350ef&labelColor=d9d6d6"/></a>
-</div>
 
 <!-- Instructions for the user to set up the snake animation -->
 <!-- 
