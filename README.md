@@ -1,177 +1,152 @@
-# Hi there, I'm Nithin Poojary 👋
+# Nithin Poojary
 
 <div align="center">
-  
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Frontend+Developer+from+India;React+%26+React+Native+Enthusiast;Always+Learning+New+Technologies;Building+Digital+Experiences)
+
+![Professional Developer](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Frontend+Developer;Mobile+Application+Specialist;React+%26+React+Native+Expert;Building+Digital+Solutions)
+
+</div>
+
+**Frontend Developer & Mobile Application Specialist**  
+📍 Karnataka, India | 📧 [nithinpoojari717@gmail.com](mailto:nithinpoojari717@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/nithinkr06) | 🐙 [GitHub](https://github.com/nithinkr06)
+
+---
+
+## 🎯 Professional Summary
+
+Experienced Frontend Developer specializing in modern web and mobile technologies with a focus on React and React Native ecosystems. Passionate about creating scalable, user-centric applications with clean architecture and optimal performance. Currently expanding expertise in cloud technologies and cross-platform mobile development.
+
+**Core Competencies:**
+- 🌐 Frontend Development (React, Vue.js, TypeScript)
+- 📱 Mobile Development (React Native, Flutter)
+- ⚙️ Backend Integration (Node.js, Express.js, Python)
+- ☁️ Cloud Services (AWS, Firebase)
+- 🎨 UI/UX Design Implementation
+
+---
+
+## 🛠️ Technical Expertise
+
+<div align="center">
+
+### **Frontend Technologies**
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### **Mobile & Backend**
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+### **Database & Cloud**
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+### **Tools & Design**
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 🚀 Current Focus
 
-I'm a passionate **Frontend Developer** from India, specializing in modern web and mobile technologies. Currently diving deep into **React Native** while expanding my knowledge in cloud technologies and mobile development.
-
-- 🔭 Currently working on **React Native applications**
-- 🌱 Learning **AWS**, **TypeScript**, and **Flutter**
-- 💡 Love solving complex problems with clean, efficient code
-- 📫 Reach me at: **nithinpoojari717@gmail.com**
-- ⚡ Fun fact: I enjoy blending **design** with **development**
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-<table>
+<table align="center">
 <tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-<br>JavaScript
+<td align="center" width="50%">
+
+**🔹 Mobile Development**  
+Building cross-platform applications with React Native and Flutter
+
+**🔹 Cloud Architecture**  
+Implementing AWS services for scalable backend solutions
+
 </td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
-<br>TypeScript
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-<br>React
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React Native" />
-<br>React Native
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue.js" />
-<br>Vue.js
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-<br>Node.js
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
-<br>Express.js
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-<br>Python
-</td>
-</tr>
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-<br>HTML5
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
-<br>CSS3
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" />
-<br>Tailwind CSS
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
-<br>Bootstrap
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-<br>MongoDB
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-<br>MySQL
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
-<br>Firebase
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
-<br>AWS
-</td>
-</tr>
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-<br>Docker
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-<br>Git
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" />
-<br>Flutter
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
-<br>Figma
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=ps" width="48" height="48" alt="Photoshop" />
-<br>Photoshop
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
-<br>Java
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
-<br>C
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-<br>Postman
+<td align="center" width="50%">
+
+**🔹 Performance Optimization**  
+Enhancing application performance and user experience
+
+**🔹 Modern JavaScript**  
+Advanced TypeScript patterns and modern ECMAScript features
+
 </td>
 </tr>
 </table>
 
-</div>
+---
 
-
-## 🌐 Connect With Me
+## 📊 GitHub Analytics
 
 <div align="center">
   
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_nithin.kr_)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nithinpoojari717@gmail.com)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nithinkr06&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&border_radius=8" alt="GitHub Stats"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithinkr06&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=8&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=8" alt="Top Languages"/>
+  
+</div>
+
+<div align="center">
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nithinkr06&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&border_radius=8" alt="GitHub Streak Stats"/>
+  
+</div>
+
+---
+
+## 🌐 Professional Network
+
+<div align="center">
+  
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nithinkr06)
+  [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nithinpoojari717@gmail.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_nithin.kr_)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nithinkr06)
+  
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/nithinkr06/nithinkr06/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
 ---
 
 <div align="center">
-  
-  ### 💭 Random Dev Quote
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-  
-  
-  ### 👀 Profile Views
-  ![](https://komarev.com/ghpvc/?username=nithinpoojary&color=blueviolet&style=flat-square&label=Profile+Views)
-  
-  
-  **✨ "Code is like humor. When you have to explain it, it's bad." – Cory House**
 
-</div>
+### 🤝 Open to Collaboration
+
+**Seeking opportunities in frontend and mobile development**  
+*Let's build something amazing together!*
+
+<img src="https://komarev.com/ghpvc/?username=nithinkr06&color=0077B5&style=for-the-badge&label=Profile+Views"/>
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+**⚡ "Great software is built by great teams, and great teams are built by great individuals who never stop learning."**
+
 </div>
 
-
-<div align="center">
-  <h3>Thanks for visiting! 😊</h3>
-  <p>Feel free to reach out if you want to collaborate on any project or just have a chat about technology!</p>
-</div>
-
----
 
 
 <!-- Instructions for the user to set up the snake animation -->
