@@ -58,8 +58,6 @@ I am a **Frontend Developer** passionate about crafting seamless digital experie
 
 ## 🔒 Cybersecurity & DevSecOps Toolkit
 
-Cybersecurity is more than a skill — it’s a mindset.  
-Here’s a glimpse of my **security-focused tools** and **learning journey** toward mastering both **offensive** and **defensive** security.
 
 <div align="center">
 
