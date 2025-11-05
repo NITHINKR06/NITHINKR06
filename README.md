@@ -1,136 +1,112 @@
 # Hi there, I'm Nithin Poojary 👋
 
 <div align="center">
-  
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Frontend+Developer+from+India;React+%26+React+Native+Enthusiast;Always+Learning+New+Technologies;Building+Digital+Experiences)
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Frontend+Developer+%26+Cybersecurity+Learner;React+%26+React+Native+Enthusiast;Building+and+Securing+Digital+Experiences;Always+Learning+New+Technologies)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 🚀 About Me: Two Distinct Passions
 
-I'm a passionate **Frontend Developer** from India, specializing in modern web and mobile technologies. Currently diving deep into **React Native** while expanding my knowledge in cloud technologies and mobile development.
+I am a **Frontend Developer** passionate about crafting seamless digital experiences — while also diving deep into **Cybersecurity**, understanding how to build and defend in today’s connected world.
 
-- 🔭 Currently working on **React Native applications**
-- 🌱 Learning **AWS**, **TypeScript**, and **Flutter**
-- 💡 Love solving complex problems with clean, efficient code
-- 📫 Reach me at: **nithinpoojari717@gmail.com**
-- ⚡ Fun fact: I enjoy blending **design** with **development**
+- 💻 **Frontend Focus:** Designing and developing interactive, high-performance web & mobile interfaces with **React** and **React Native**.  
+- 🛡️ **Cybersecurity Focus:** Learning and applying principles of **Offensive Security**, **Threat Detection**, and **System Hardening**.  
+- 🌱 **Currently Learning:** Advanced **AWS**, **TypeScript**, **Flutter**, and **InfoSec** methodologies.  
+- 📫 **Reach me at:** **nithinpoojari717@gmail.com**
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack: Web & Mobile Development
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-<br>JavaScript
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
-<br>TypeScript
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-<br>React
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React Native" />
-<br>React Native
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue.js" />
-<br>Vue.js
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-<br>Node.js
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
-<br>Express.js
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-<br>Python
-</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=js" width="48" height="48" /><br>JavaScript</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=ts" width="48" height="48" /><br>TypeScript</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=react" width="48" height="48" /><br>React</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=react" width="48" height="48" /><br>React Native</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=vue" width="48" height="48" /><br>Vue.js</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" /><br>Node.js</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=express" width="48" height="48" /><br>Express.js</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=python" width="48" height="48" /><br>Python</td>
 </tr>
 <tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-<br>HTML5
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
-<br>CSS3
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" />
-<br>Tailwind CSS
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
-<br>Bootstrap
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-<br>MongoDB
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-<br>MySQL
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
-<br>Firebase
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
-<br>AWS
-</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=html" width="48" height="48" /><br>HTML5</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=css" width="48" height="48" /><br>CSS3</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" /><br>Tailwind CSS</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" /><br>Bootstrap</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" /><br>MongoDB</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" /><br>MySQL</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" /><br>Firebase</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" /><br>Flutter</td>
 </tr>
 <tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-<br>Docker
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-<br>Git
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" />
-<br>Flutter
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
-<br>Figma
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=ps" width="48" height="48" alt="Photoshop" />
-<br>Photoshop
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
-<br>Java
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
-<br>C
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-<br>Postman
-</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=figma" width="48" height="48" /><br>Figma</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=ps" width="48" height="48" /><br>Photoshop</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=java" width="48" height="48" /><br>Java</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=c" width="48" height="48" /><br>C</td>
 </tr>
 </table>
 
 </div>
 
+---
+
+## 🔒 Cybersecurity & DevSecOps Toolkit
+
+Cybersecurity is more than a skill — it’s a mindset.  
+Here’s a glimpse of my **security-focused tools** and **learning journey** toward mastering both **offensive** and **defensive** security.
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=kali" width="48" height="48" /><br>Kali Linux</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=linux" width="48" height="48" /><br>Linux</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=bash" width="48" height="48" /><br>Bash / Shell</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=powershell" width="48" height="48" /><br>Powershell</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=aws" width="48" height="48" /><br>AWS</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=docker" width="48" height="48" /><br>Docker</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" /><br>Git</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=postman" width="48" height="48" /><br>Postman</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+### 🧠 Cybersecurity Learning Journey
+
+I actively train through **structured learning paths** and **hands-on labs**, focusing on the following domains:
+
+| Category | Description |
+|-----------|-------------|
+| 🧩 **Pre Security** | Learning foundational computer science and networking concepts. |
+| 🔐 **Cyber Security 101** | Core principles of cybersecurity — from risk to response. | 
+| 🧭 **Security Analyst (SOC Level 1)** | Understanding SIEM tools, log analysis, and alert handling. |
+| 🧠 **Security Analyst Level 2** | Advanced endpoint investigations and threat analysis. |
+| ⚔️ **Jr. Penetration Tester (PT1)** | Practical skills in web app testing and vulnerability exploitation. |
+| 🌐 **Web App Pentesting** | Learning OWASP Top 10, Burp Suite, and manual testing methods. | 
+| 🚀 **Red Teaming** | Offensive simulations and attack emulations. | 🎯 Goal Stage |
+| ☁️ **Attacking & Defending AWS** | Exploring cloud attack vectors and mitigation strategies. | 
+
+---
+
+## 🧰 Tools & Skills I Use for Cybersecurity
+
+- 🧠 **Offensive Security:** Nmap, Metasploit, Burp Suite, Hydra, OWASP ZAP  
+- 🛡️ **Defensive Security:** Wireshark, Splunk, ELK Stack, Zeek  
+- ☁️ **Cloud Security:** AWS IAM, S3, CloudTrail, DevSecOps principles  
+- 🧰 **Development for Security:** Secure coding practices (React + Node), API security, JWT, OAuth  
+- 🔍 **Threat Hunting:** Log analysis, incident response fundamentals  
+- 🧩 **Automation:** Bash & Python scripting for recon, enumeration, and reporting  
+
+---
 
 
 ## 📊 GitHub Analytics
