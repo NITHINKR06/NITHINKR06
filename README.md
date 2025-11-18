@@ -124,6 +124,15 @@ I actively train through **structured learning paths** and **hands-on labs**, fo
 </div>
 
 
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NITHINKR06&theme=github_dark" alt="Contribution Graph" />
+</div>
+
+---
+
+
 ## 📈 Contribution Graph  
 
 <div align="center">
