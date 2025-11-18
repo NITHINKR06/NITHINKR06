@@ -111,15 +111,15 @@ I actively train through **structured learning paths** and **hands-on labs**, fo
 
 <div align="center">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nithinkr06&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&border_radius=8" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NITHINKR06&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&border_radius=8" alt="GitHub Stats"/>
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithinkr06&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=8&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=8" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NITHINKR06&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=8&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=8" alt="Top Languages"/>
   
 </div>
 
 <div align="center">
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nithinkr06&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&border_radius=8" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NITHINKR06&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&border_radius=8" alt="GitHub Streak Stats"/>
   
 </div>
 
@@ -137,7 +137,7 @@ I actively train through **structured learning paths** and **hands-on labs**, fo
 
 <div align="center">
 
-![Nithin's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nithinkr06&theme=tokyo-night&hide_border=true)
+![Nithin's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NITHINKR06&theme=tokyo-night&hide_border=true)
 
 </div>
 
@@ -151,7 +151,7 @@ I actively train through **structured learning paths** and **hands-on labs**, fo
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_nithin.kr_)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nithinpoojari717@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nithinkr06)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nithinkr06)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NITHINKR06)
 
 </div>
 
