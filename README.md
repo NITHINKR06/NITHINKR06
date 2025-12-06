@@ -78,35 +78,6 @@ I am a **Frontend Developer** passionate about crafting seamless digital experie
 
 ---
 
-### 🧠 Cybersecurity Learning Journey
-
-I actively train through **structured learning paths** and **hands-on labs**, focusing on the following domains:
-
-| Category | Description |
-|-----------|-------------|
-| 🧩 **Pre Security** | Learning foundational computer science and networking concepts. |
-| 🔐 **Cyber Security 101** | Core principles of cybersecurity — from risk to response. | 
-| 🧭 **Security Analyst (SOC Level 1)** | Understanding SIEM tools, log analysis, and alert handling. |
-| 🧠 **Security Analyst Level 2** | Advanced endpoint investigations and threat analysis. |
-| ⚔️ **Jr. Penetration Tester (PT1)** | Practical skills in web app testing and vulnerability exploitation. |
-| 🌐 **Web App Pentesting** | Learning OWASP Top 10, Burp Suite, and manual testing methods. | 
-| 🚀 **Red Teaming** | Offensive simulations and attack emulations. | 🎯 Goal Stage |
-| ☁️ **Attacking & Defending AWS** | Exploring cloud attack vectors and mitigation strategies. | 
-
----
-
-## 🧰 Tools & Skills I Use for Cybersecurity
-
-- 🧠 **Offensive Security:** Nmap, Metasploit, Burp Suite, Hydra, OWASP ZAP  
-- 🛡️ **Defensive Security:** Wireshark, Splunk, ELK Stack, Zeek  
-- ☁️ **Cloud Security:** AWS IAM, S3, CloudTrail, DevSecOps principles  
-- 🧰 **Development for Security:** Secure coding practices (React + Node), API security, JWT, OAuth  
-- 🔍 **Threat Hunting:** Log analysis, incident response fundamentals  
-- 🧩 **Automation:** Bash & Python scripting for recon, enumeration, and reporting  
-
----
-
-
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -183,3 +154,32 @@ I actively train through **structured learning paths** and **hands-on labs**, fo
   <h3>Thanks for visiting! 😊</h3>
   <p>Feel free to reach out if you want to collaborate on any project or just have a chat about technology!</p>
 </div>
+
+
+<!--
+### 🧠 Cybersecurity Learning Journey
+
+I actively train through **structured learning paths** and **hands-on labs**, focusing on the following domains:
+
+| Category | Description |
+|-----------|-------------|
+| 🧩 **Pre Security** | Learning foundational computer science and networking concepts. |
+| 🔐 **Cyber Security 101** | Core principles of cybersecurity — from risk to response. | 
+| 🧭 **Security Analyst (SOC Level 1)** | Understanding SIEM tools, log analysis, and alert handling. |
+| 🧠 **Security Analyst Level 2** | Advanced endpoint investigations and threat analysis. |
+| ⚔️ **Jr. Penetration Tester (PT1)** | Practical skills in web app testing and vulnerability exploitation. |
+| 🌐 **Web App Pentesting** | Learning OWASP Top 10, Burp Suite, and manual testing methods. | 
+| 🚀 **Red Teaming** | Offensive simulations and attack emulations. | 🎯 Goal Stage |
+| ☁️ **Attacking & Defending AWS** | Exploring cloud attack vectors and mitigation strategies. | 
+
+---
+
+## 🧰 Tools & Skills I Use for Cybersecurity
+
+- 🧠 **Offensive Security:** Nmap, Metasploit, Burp Suite, Hydra, OWASP ZAP  
+- 🛡️ **Defensive Security:** Wireshark, Splunk, ELK Stack, Zeek  
+- ☁️ **Cloud Security:** AWS IAM, S3, CloudTrail, DevSecOps principles  
+- 🧰 **Development for Security:** Secure coding practices (React + Node), API security, JWT, OAuth  
+- 🔍 **Threat Hunting:** Log analysis, incident response fundamentals  
+- 🧩 **Automation:** Bash & Python scripting for recon, enumeration, and reporting  
+-->
