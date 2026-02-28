@@ -64,20 +64,6 @@ I enjoy working at the intersection of **building great products** and **underst
 
 ---
 
-## 🔒 Cybersecurity Learning Path
-
-| Domain | Focus |
-|--------|-------|
-| 🧩 **Foundations** | Networking, OS internals, Linux administration |
-| 🔐 **Security Core** | Risk management, CIA triad, cryptography basics |
-| 🧭 **SOC / Blue Team** | SIEM tools, log analysis, alert triage (Level 1 & 2) |
-| ⚔️ **Penetration Testing** | Web app testing, OWASP Top 10, Burp Suite, Metasploit |
-| 🌐 **Web App Security** | Manual testing, XSS, SQLi, IDOR, API security |
-| ☁️ **Cloud Security** | AWS IAM, S3, CloudTrail, DevSecOps fundamentals |
-| 🚀 **Red Teaming** | Offensive simulations *(in progress)* |
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
