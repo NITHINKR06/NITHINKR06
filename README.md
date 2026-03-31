@@ -1,86 +1,131 @@
 <div align="center">
 
-# Nithin Poojary
-### Frontend Developer · Cybersecurity Learner · Open to International Internships
+<!-- Animated header banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f3460,100:58a6ff&height=200&section=header&text=Nithin%20Poojary&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Dev%20%C2%B7%20Security%20Researcher%20%C2%B7%20Builder&descSize=18&descAlignY=60&animation=twinkling" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+Secure%2C+High-Performance+Web+%26+Mobile+Apps;Exploring+Offensive+Security+%26+Threat+Detection;React+%7C+React+Native+%7C+Node.js+%7C+Kali+Linux;Open+to+Remote+%26+International+Internships)](https://git.io/typing-svg)
+<!-- Glitchy typing animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=600&color=58A6FF&center=true&vCenter=true&multiline=false&width=700&lines=%24+whoami+%E2%86%92+Frontend+Dev+%26+Security+Nerd;%24+skills+--list+%E2%86%92+React+%7C+Node+%7C+Kali+%7C+AWS;%24+status+%E2%86%92+Open+to+International+Internships;%24+ping+me+%E2%86%92+nithinpoojari717%40gmail.com)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nithinkr06)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NITHINKR06)
+<br/>
+
+<!-- Social Badges with hover glow effect -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nithinkr06)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NITHINKR06)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nithinpoojari717@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_nithin.kr_)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_nithin.kr_)
+
+<!-- Profile views + last updated -->
+![Profile Views](https://komarev.com/ghpvc/?username=NITHINKR06&color=58a6ff&style=flat-square&label=Profile+Views)
+![Last Commit](https://img.shields.io/github/last-commit/NITHINKR06/NITHINKR06?color=58a6ff&style=flat-square&label=Last+Updated)
 
 </div>
 
 ---
 
-## 👋 About Me
+<!-- Terminal-style about section -->
+```bash
+┌──(nithin㉿dev-machine)-[~]
+└─$ cat about_me.txt
 
-I'm a **Frontend Developer** with hands-on freelance experience building responsive web and mobile applications, paired with a growing focus on **Cybersecurity** — from offensive security and penetration testing to cloud defense and threat detection.
+  👾  Frontend Dev  |  Security Learner  |  Open-Source Enthusiast
+  🎯  Freelance experience shipping real products for real clients
+  🛡️  Offensive Security: Web Pentesting · Threat Detection · AWS Security
+  📱  Building cross-platform apps with React Native & Expo
+  🌍  Seeking remote/international internships — timezone-flexible
+  📫  nithinpoojari717@gmail.com
 
-I enjoy working at the intersection of **building great products** and **understanding how to break and secure them**. I'm actively seeking **international internship opportunities** where I can contribute, grow, and collaborate across time zones.
-
-- 🔭 &nbsp;Currently building projects with **React**, **React Native**, and **Node.js**
-- 🛡️ &nbsp;Learning **Offensive Security**, **Web App Pentesting**, and **AWS Security**
-- 💼 &nbsp;Freelance experience delivering web & mobile interfaces for real clients
-- 🌱 &nbsp;Advancing in **TypeScript**, **Flutter**, and **InfoSec** methodologies
-- 🌍 &nbsp;Open to **remote** or **on-site international** internships
-- 📫 &nbsp;Reach me: **nithinpoojari717@gmail.com**
+┌──(nithin㉿dev-machine)-[~]
+└─$ █
+```
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ What I'm Up To
 
-### Frontend & Mobile Development
+<table>
+<tr>
+<td width="50%">
+
+### 🔭 Currently Building
+- **DataVault** — Android call-log capture app (Expo SDK 54 + React Native)
+- **ThreatCore** — Multi-stage cybersecurity threat detection system
+- Grinding **CTF challenges** & competitive programming
+
+</td>
+<td width="50%">
+
+### 🌱 Currently Learning
+- TypeScript deep-dive & advanced React patterns
+- Flutter & cross-platform mobile dev
+- Offensive Security: Metasploit, Burp Suite, OWASP Top 10
+- AWS Security & cloud defense architecture
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
-| Core | Frameworks | Styling | Mobile |
-|------|-----------|---------|--------|
-| ![JS](https://skillicons.dev/icons?i=js) JavaScript | ![React](https://skillicons.dev/icons?i=react) React | ![Tailwind](https://skillicons.dev/icons?i=tailwind) Tailwind CSS | ![React Native](https://skillicons.dev/icons?i=react) React Native |
-| ![TS](https://skillicons.dev/icons?i=ts) TypeScript | ![Vue](https://skillicons.dev/icons?i=vue) Vue.js | ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) Bootstrap | ![Flutter](https://skillicons.dev/icons?i=flutter) Flutter |
-| ![HTML](https://skillicons.dev/icons?i=html) HTML5 | ![Node](https://skillicons.dev/icons?i=nodejs) Node.js | ![Figma](https://skillicons.dev/icons?i=figma) Figma | ![Firebase](https://skillicons.dev/icons?i=firebase) Firebase |
-| ![CSS](https://skillicons.dev/icons?i=css) CSS3 | ![Express](https://skillicons.dev/icons?i=express) Express.js | ![PS](https://skillicons.dev/icons?i=ps) Photoshop | ![MongoDB](https://skillicons.dev/icons?i=mongodb) MongoDB |
+### Frontend & Mobile
 
-</div>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+### Backend & Database
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### Cybersecurity & DevSecOps
 
-<div align="center">
-
-![Kali](https://skillicons.dev/icons?i=kali)&nbsp;
-![Linux](https://skillicons.dev/icons?i=linux)&nbsp;
-![Bash](https://skillicons.dev/icons?i=bash)&nbsp;
-![PowerShell](https://skillicons.dev/icons?i=powershell)&nbsp;
-![AWS](https://skillicons.dev/icons?i=aws)&nbsp;
-![Docker](https://skillicons.dev/icons?i=docker)&nbsp;
-![Git](https://skillicons.dev/icons?i=git)&nbsp;
-![Postman](https://skillicons.dev/icons?i=postman)&nbsp;
-![Python](https://skillicons.dev/icons?i=python)
-
-**Tools:** Nmap · Metasploit · Burp Suite · Wireshark · Splunk · OWASP ZAP · Hydra
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="175em"
-     src="https://github-readme-stats.vercel.app/api?username=NITHINKR06&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&border_radius=8"
-     alt="GitHub Stats" />
+<!-- Main stats + languages in a tight row -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NITHINKR06&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&border_radius=10&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NITHINKR06&layout=compact&theme=github_dark&hide_border=true&langs_count=8&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=10" />
 
-<img height="175em"
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=NITHINKR06&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=8&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=8"
-     alt="Top Languages" />
+<!-- Streak stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NITHINKR06&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&border_radius=10" />
 
-<img
-     src="https://github-readme-streak-stats.herokuapp.com/?user=NITHINKR06&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&border_radius=8"
-     alt="GitHub Streak" />
+</div>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NITHINKR06&theme=github_dark" alt="Contribution Graph" />
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=NITHINKR06&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -90,7 +135,22 @@ I enjoy working at the intersection of **building great products** and **underst
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NITHINKR06&theme=tokyo-night&hide_border=true)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NITHINKR06&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb&hide_border=true&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🎯 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/NITHINKR06">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NITHINKR06&repo=ThreatCore&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&border_radius=10" />
+</a>
+<a href="https://github.com/NITHINKR06">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NITHINKR06&repo=DataVault&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&border_radius=10" />
+</a>
 
 </div>
 
@@ -98,27 +158,58 @@ I enjoy working at the intersection of **building great products** and **underst
 
 ## 💡 What I Bring to a Team
 
-- **Delivery mindset** — freelance experience means I understand deadlines, client expectations, and shipping real products
-- **Security-aware development** — I don't just build; I think about how what I build could be attacked
-- **Fast learner** — actively upskilling across frontend, mobile, and InfoSec simultaneously
-- **Remote-ready** — comfortable with async communication, documentation, and self-directed work
+```python
+class Nithin:
+    def __init__(self):
+        self.mindset        = "Delivery-focused: deadlines are sacred"
+        self.superpower     = "Security-aware dev — I build AND think about breaking"
+        self.learning_speed = float('inf')   # fast learner, always upskilling
+        self.remote_ready   = True           # async comms, docs, self-directed
+        self.timezone       = "IST (UTC+5:30) — flexible for global teams"
+
+    def value_add(self):
+        return [
+            "Freelance experience → real clients, real deadlines",
+            "Full-stack + mobile + security = rare combo at intern level",
+            "CTF competitor → attacker mindset baked into every project",
+            "Open-source contributor & continuous builder",
+        ]
+
+me = Nithin()
+print(me.value_add())
+```
+
+---
+
+## 🌐 Let's Connect
+
+<div align="center">
+
+| Platform | Handle |
+|----------|--------|
+| 💼 LinkedIn | [linkedin.com/in/nithinkr06](https://linkedin.com/in/nithinkr06) |
+| 🐙 GitHub | [github.com/NITHINKR06](https://github.com/NITHINKR06) |
+| 📧 Email | nithinpoojari717@gmail.com |
+| 📸 Instagram | [@_nithin.kr_](https://instagram.com/_nithin.kr_) |
+
+</div>
 
 ---
 
 <div align="center">
 
-### 💭 Dev Quote of the Day
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<!-- Snake contribution graph -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
-### 👀 Profile Views
-![](https://komarev.com/ghpvc/?username=nithinpoojary&color=58a6ff&style=flat-square&label=Profile+Views)
+<!-- Footer wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:0f3460,100:0d1117&height=120&section=footer&animation=twinkling" />
 
----
+**`> Building secure, performant products. One commit at a time._`**
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-**✨ "The best way to predict the future is to build — and secure — it."**
-
-*Open to international internship opportunities · Let's connect and build something great!*
+*Open to international internships · Remote-friendly · Let's build something great!*
 
 </div>
