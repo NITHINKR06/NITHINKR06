@@ -141,21 +141,6 @@
 
 ---
 
-## 🎯 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/NITHINKR06">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NITHINKR06&repo=ThreatCore&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&border_radius=10" />
-</a>
-<a href="https://github.com/NITHINKR06">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NITHINKR06&repo=DataVault&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&border_radius=10" />
-</a>
-
-</div>
-
----
-
 ## 💡 What I Bring to a Team
 
 ```python
