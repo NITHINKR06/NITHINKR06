@@ -1,0 +1,200 @@
+<svg width="900" height="300" viewBox="0 0 900 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+
+    <!-- Background gradient -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%"   stop-color="#050b18"/>
+      <stop offset="40%"  stop-color="#0a1628"/>
+      <stop offset="70%"  stop-color="#0d1f3c"/>
+      <stop offset="100%" stop-color="#060d1a"/>
+    </linearGradient>
+
+    <!-- Gold shimmer gradient for text -->
+    <linearGradient id="goldShimmer" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#b8860b"/>
+      <stop offset="30%"  stop-color="#e8c46a"/>
+      <stop offset="50%"  stop-color="#ffd97d"/>
+      <stop offset="70%"  stop-color="#e8c46a"/>
+      <stop offset="100%" stop-color="#b8860b"/>
+      <animateTransform attributeName="gradientTransform" type="translate" from="-1 0" to="1 0" dur="3s" repeatCount="indefinite"/>
+    </linearGradient>
+
+    <!-- Glow filter for text -->
+    <filter id="goldGlow" x="-20%" y="-40%" width="140%" height="180%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Subtle glow for subtitle -->
+    <filter id="softGlow" x="-10%" y="-40%" width="120%" height="180%">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Star/particle glow -->
+    <filter id="starGlow">
+      <feGaussianBlur stdDeviation="1.5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Radial center glow -->
+    <radialGradient id="centerGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%"   stop-color="#1a3a6e" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#050b18" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Top gold border gradient -->
+    <linearGradient id="borderGold" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#050b18"/>
+      <stop offset="20%"  stop-color="#d4a843"/>
+      <stop offset="50%"  stop-color="#ffd97d"/>
+      <stop offset="80%"  stop-color="#d4a843"/>
+      <stop offset="100%" stop-color="#050b18"/>
+    </linearGradient>
+
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="300" fill="url(#bgGrad)"/>
+
+  <!-- Center radial glow -->
+  <ellipse cx="450" cy="150" rx="400" ry="200" fill="url(#centerGlow)"/>
+
+  <!-- Top border line -->
+  <rect x="0" y="0" width="900" height="2" fill="url(#borderGold)">
+    <animate attributeName="opacity" values="0.6;1;0.6" dur="3s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Bottom border line -->
+  <rect x="0" y="298" width="900" height="2" fill="url(#borderGold)">
+    <animate attributeName="opacity" values="0.6;1;0.6" dur="3s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- ── Floating particles ── -->
+  <!-- particle 1 -->
+  <circle cx="80" cy="60" r="1.5" fill="#e8c46a" opacity="0.7" filter="url(#starGlow)">
+    <animate attributeName="cy" values="60;40;60" dur="4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.7;0.2;0.7" dur="4s" repeatCount="indefinite"/>
+  </circle>
+  <!-- particle 2 -->
+  <circle cx="200" cy="220" r="1" fill="#ffd97d" opacity="0.5" filter="url(#starGlow)">
+    <animate attributeName="cy" values="220;200;220" dur="5.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.5;0.1;0.5" dur="5.5s" repeatCount="indefinite"/>
+  </circle>
+  <!-- particle 3 -->
+  <circle cx="750" cy="50" r="2" fill="#e8c46a" opacity="0.6" filter="url(#starGlow)">
+    <animate attributeName="cy" values="50;30;50" dur="3.8s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.6;0.15;0.6" dur="3.8s" repeatCount="indefinite"/>
+  </circle>
+  <!-- particle 4 -->
+  <circle cx="820" cy="240" r="1.5" fill="#ffd97d" opacity="0.5" filter="url(#starGlow)">
+    <animate attributeName="cy" values="240;215;240" dur="6s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.5;0.1;0.5" dur="6s" repeatCount="indefinite"/>
+  </circle>
+  <!-- particle 5 -->
+  <circle cx="450" cy="30" r="1.2" fill="#e8c46a" opacity="0.4" filter="url(#starGlow)">
+    <animate attributeName="cy" values="30;15;30" dur="5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.4;0.05;0.4" dur="5s" repeatCount="indefinite"/>
+  </circle>
+  <!-- particle 6 -->
+  <circle cx="130" cy="170" r="1" fill="#8ba3c7" opacity="0.4" filter="url(#starGlow)">
+    <animate attributeName="cx" values="130;145;130" dur="7s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.4;0.1;0.4" dur="7s" repeatCount="indefinite"/>
+  </circle>
+  <!-- particle 7 -->
+  <circle cx="680" cy="260" r="1.2" fill="#8ba3c7" opacity="0.35" filter="url(#starGlow)">
+    <animate attributeName="cy" values="260;240;260" dur="4.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.35;0.08;0.35" dur="4.5s" repeatCount="indefinite"/>
+  </circle>
+  <!-- particle 8 -->
+  <circle cx="360" cy="270" r="1" fill="#e8c46a" opacity="0.3" filter="url(#starGlow)">
+    <animate attributeName="cy" values="270;255;270" dur="6.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.3;0.05;0.3" dur="6.5s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- ── Floating orbs ── -->
+  <circle cx="100" cy="150" r="60" fill="#0d2040" opacity="0.3">
+    <animate attributeName="cx" values="100;120;100" dur="8s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.3;0.15;0.3" dur="8s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="800" cy="150" r="50" fill="#0d2040" opacity="0.25">
+    <animate attributeName="cx" values="800;780;800" dur="9s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.25;0.1;0.25" dur="9s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- ── Decorative thin horizontal lines ── -->
+  <line x1="50" y1="90" x2="200" y2="90" stroke="#e8c46a" stroke-width="0.5" opacity="0.2"/>
+  <line x1="700" y1="90" x2="850" y2="90" stroke="#e8c46a" stroke-width="0.5" opacity="0.2"/>
+  <line x1="50" y1="210" x2="200" y2="210" stroke="#e8c46a" stroke-width="0.5" opacity="0.2"/>
+  <line x1="700" y1="210" x2="850" y2="210" stroke="#e8c46a" stroke-width="0.5" opacity="0.2"/>
+
+  <!-- ── Small diamond decorators beside name ── -->
+  <polygon points="195,143 202,150 195,157 188,150" fill="#e8c46a" opacity="0.5">
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="2.5s" repeatCount="indefinite"/>
+  </polygon>
+  <polygon points="705,143 712,150 705,157 698,150" fill="#e8c46a" opacity="0.5">
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="2.5s" begin="1.25s" repeatCount="indefinite"/>
+  </polygon>
+
+  <!-- ── MAIN NAME TEXT ── -->
+  <!-- Shadow layer -->
+  <text x="450" y="158"
+    font-family="Georgia, 'Times New Roman', serif"
+    font-size="68"
+    font-weight="700"
+    text-anchor="middle"
+    fill="#b8860b"
+    opacity="0.35"
+    transform="translate(3,3)">
+    NITHIN POOJARY
+  </text>
+
+  <!-- Main gold shimmer text -->
+  <text x="450" y="158"
+    font-family="Georgia, 'Times New Roman', serif"
+    font-size="68"
+    font-weight="700"
+    text-anchor="middle"
+    fill="url(#goldShimmer)"
+    filter="url(#goldGlow)">
+    NITHIN POOJARY
+    <animate attributeName="opacity" values="0.92;1;0.92" dur="4s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- ── Thin divider line under name ── -->
+  <line x1="270" y1="172" x2="630" y2="172" stroke="url(#borderGold)" stroke-width="0.8" opacity="0.6"/>
+
+  <!-- ── SUBTITLE TEXT ── -->
+  <text x="450" y="200"
+    font-family="'Trebuchet MS', Arial, sans-serif"
+    font-size="15"
+    font-weight="400"
+    text-anchor="middle"
+    fill="#8ba3c7"
+    letter-spacing="4"
+    filter="url(#softGlow)">
+    FRONTEND DEVELOPER  ◆  SECURITY RESEARCHER  ◆  BUILDER
+    <animate attributeName="opacity" values="0.75;1;0.75" dur="5s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- ── Bottom tagline ── -->
+  <text x="450" y="238"
+    font-family="'Trebuchet MS', Arial, sans-serif"
+    font-size="11"
+    text-anchor="middle"
+    fill="#4a6a8a"
+    letter-spacing="2.5">
+    WEB SECURITY  ·  BUG BOUNTY  ·  DEVSECOPS  ·  FULL-STACK
+  </text>
+
+</svg>
