@@ -143,7 +143,7 @@ contact    : nithinpoojari717@gmail.com
 <summary><b>🖥️ Frontend & Mobile</b></summary>
 <br/>
 
-[![Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,tailwind,html,css,flutter,reactnative,vite,astro,svelte,solidjs,remix,htmx,alpinejs&theme=dark&perline=9)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,tailwind,html,css,flutter,vite,htmx,&theme=dark&perline=9)](https://skillicons.dev)
 
 </details>
 
@@ -151,7 +151,7 @@ contact    : nithinpoojari717@gmail.com
 <summary><b>⚙️ Backend & Databases</b></summary>
 <br/>
 
-[![Skills](https://skillicons.dev/icons?i=nodejs,express,python,flask,fastapi,django,nestjs,bun,deno,mongodb,mysql,postgres,sqlite,redis,firebase,supabase,dynamodb,cassandra,kafka,rabbitmq,prisma,sequelize&theme=dark&perline=9)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=nodejs,express,python,flask,fastapi,django,nestjs,bun,mongodb,mysql,postgres,sqlite,redis,firebase,supabase,prisma,&theme=dark&perline=9)](https://skillicons.dev)
 
 </details>
 
@@ -159,7 +159,7 @@ contact    : nithinpoojari717@gmail.com
 <summary><b>🛡️ Cybersecurity & DevSecOps</b></summary>
 <br/>
 
-[![Skills](https://skillicons.dev/icons?i=linux,bash,kali,aws,azure,gcp,docker,kubernetes,nginx,terraform,ansible,grafana,prometheus,githubactions,gitlab,jenkins,cloudflare&theme=dark&perline=9)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=linux,bash,kali,aws,azure,gcp,docker,kubernetes,githubactions,gitlab,cloudflare&theme=dark&perline=9)](https://skillicons.dev)
 
 </details>
 
@@ -167,7 +167,7 @@ contact    : nithinpoojari717@gmail.com
 <summary><b>🔧 Tools & Others</b></summary>
 <br/>
 
-[![Skills](https://skillicons.dev/icons?i=git,github,vscode,vim,neovim,idea,webstorm,figma,postman,npm,pnpm,yarn,webpack,rollupjs,babel,jest,cypress,selenium,vercel,netlify,heroku,firebase,electron,threejs,graphql,redux,p5js,opencv&theme=dark&perline=9)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=git,github,vscode,idea,figma,postman,npm,pnpm,yarn,webpack,babel,jest,cypress,vercel,netlify,firebase,threejs,graphql,redux,&theme=dark&perline=9)](https://skillicons.dev)
 
 </details>
 
