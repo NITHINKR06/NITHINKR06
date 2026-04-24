@@ -7,23 +7,24 @@
 ╚═╝  ╚═══╝╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝    ╚═╝      ╚═════╝  ╚═════╝  ╚════╝ ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝
 -->
 
-<div align="center">
+<!-- <div align="center">
 
-<!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:e8c46a,50:d4a843,100:e8c46a&height=2&section=header"/> -->
+ <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:e8c46a,50:d4a843,100:e8c46a&height=2&section=header"/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0a0e1a,40:0f1c35,80:0a1628,100:050a14&height=280&section=header&text=NITHIN%20POOJARY&fontSize=72&fontColor=e8c46a&fontAlignY=42&desc=Frontend%20Developer%20%20%E2%80%94%20%20Security%20Researcher%20%20%E2%80%94%20%20Builder&descSize=16&descAlignY=62&descColor=8ba3c7&animation=fadeIn"/>
 
-<!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:e8c46a,50:d4a843,100:e8c46a&height=2&section=header"/> -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:e8c46a,50:d4a843,100:e8c46a&height=2&section=header"/>
 
 </div>
+-->
 
-<div align="center">
+<!-- <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=22&duration=3000&pause=1000&color=E8C46A&center=true&vCenter=true&width=700&lines=Frontend+Dev+%26+Security+Researcher;Web+Pentesting+%C2%B7+Bug+Bounty+%C2%B7+DevSecOps;Building+Secure%2C+Performant+Products;Open+to+International+Internships.)](https://git.io/typing-svg)
 
-</div>
+</div> -->
 
-<div align="center">
+<!-- <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0e1a?style=for-the-badge&logo=linkedin&logoColor=e8c46a)](https://www.linkedin.com/in/nithinkr06)
 [![GitHub](https://img.shields.io/badge/GitHub-0a0e1a?style=for-the-badge&logo=github&logoColor=e8c46a)](https://github.com/NITHINKR06)
@@ -34,9 +35,7 @@
 &nbsp;
 ![Last Commit](https://img.shields.io/github/last-commit/NITHINKR06/NITHINKR06?color=e8c46a&style=flat-square&label=Last+Updated)
 
-</div>
-
----
+</div> -->
 
 <!--  A B O U T  -->
 
