@@ -9,15 +9,13 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:e8c46a,50:d4a843,100:e8c46a&height=2&section=header"/>
+<!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:e8c46a,50:d4a843,100:e8c46a&height=2&section=header"/> -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0a0e1a,40:0f1c35,80:0a1628,100:050a14&height=280&section=header&text=NITHIN%20POOJARY&fontSize=72&fontColor=e8c46a&fontAlignY=42&desc=Frontend%20Developer%20%20%E2%80%94%20%20Security%20Researcher%20%20%E2%80%94%20%20Builder&descSize=16&descAlignY=62&descColor=8ba3c7&animation=fadeIn"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:e8c46a,50:d4a843,100:e8c46a&height=2&section=header"/>
+<!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:e8c46a,50:d4a843,100:e8c46a&height=2&section=header"/> -->
 
 </div>
-
-<br/>
 
 <div align="center">
 
@@ -25,16 +23,12 @@
 
 </div>
 
-<br/>
-
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0e1a?style=for-the-badge&logo=linkedin&logoColor=e8c46a)](https://www.linkedin.com/in/nithinkr06)
 [![GitHub](https://img.shields.io/badge/GitHub-0a0e1a?style=for-the-badge&logo=github&logoColor=e8c46a)](https://github.com/NITHINKR06)
 [![Gmail](https://img.shields.io/badge/Gmail-0a0e1a?style=for-the-badge&logo=gmail&logoColor=e8c46a)](mailto:nithinpoojari717@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-0a0e1a?style=for-the-badge&logo=instagram&logoColor=e8c46a)](https://instagram.com/_nithin.kr_)
-
-<br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=NITHINKR06&color=e8c46a&style=flat-square&label=Profile+Views)
 &nbsp;
@@ -118,46 +112,25 @@ contact    : nithinpoojari717@gmail.com
 
 ---
 
-<!--  S K I L L S  -->
+### 🛠️ &nbsp;Tech Arsenal
 
-<h3>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="28"/>
-  &nbsp;Tech Arsenal
-</h3>
+<!-- > *Icons marked — actively learning or planning to learn. Update anytime.* -->
 
-> 💡 *Icons marked — actively learning or planning to learn. Update anytime.*
+**🖥️ Frontend & Mobile**
 
-<details open>
-<summary><b>🖥️ Frontend & Mobile</b></summary>
-<br/>
+[![Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,tailwind,html,css,flutter,vite&theme=dark&perline=10)](https://skillicons.dev)
 
-[![Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,tailwind,html,css,flutter,vite,htmx,&theme=dark&perline=9)](https://skillicons.dev)
+**⚙️ Backend & Databases**
 
-</details>
+[![Skills](https://skillicons.dev/icons?i=nodejs,express,python,flask,fastapi,django,mongodb,mysql,postgres,redis,firebase,supabase,prisma&theme=dark&perline=10)](https://skillicons.dev)
 
-<details open>
-<summary><b>⚙️ Backend & Databases</b></summary>
-<br/>
+**🛡️ Cybersecurity & DevSecOps**
 
-[![Skills](https://skillicons.dev/icons?i=nodejs,express,python,flask,fastapi,django,nestjs,bun,mongodb,mysql,postgres,sqlite,redis,firebase,supabase,prisma,&theme=dark&perline=9)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=linux,bash,aws,azure,gcp,docker,kubernetes,githubactions,gitlab,cloudflare&theme=dark&perline=10)](https://skillicons.dev)
 
-</details>
+**🔧 Tools & Others**
 
-<details open>
-<summary><b>🛡️ Cybersecurity & DevSecOps</b></summary>
-<br/>
-
-[![Skills](https://skillicons.dev/icons?i=linux,bash,kali,aws,azure,gcp,docker,kubernetes,githubactions,gitlab,cloudflare&theme=dark&perline=9)](https://skillicons.dev)
-
-</details>
-
-<details open>
-<summary><b>🔧 Tools & Others</b></summary>
-<br/>
-
-[![Skills](https://skillicons.dev/icons?i=git,github,vscode,idea,figma,postman,npm,pnpm,yarn,webpack,babel,jest,cypress,vercel,netlify,firebase,threejs,graphql,redux,&theme=dark&perline=9)](https://skillicons.dev)
-
-</details>
+[![Skills](https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel,netlify,jest,graphql,redux,webpack,threejs&theme=dark&perline=10)](https://skillicons.dev)
 
 ---
 
@@ -217,35 +190,24 @@ contact    : nithinpoojari717@gmail.com
 
 ---
 
-<!--  V A L U E  -->
+<!-- ### ⚡ Quick Facts
+> The short version of why you should work with me
 
-<h3>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" width="28"/>
-  &nbsp;What I Bring
-</h3>
-
-```python
-class Nithin:
-    def __init__(self):
-        self.mindset        = "Delivery-focused: deadlines are sacred"
-        self.superpower     = "Security-aware dev — I build AND break"
-        self.learning_speed = float('inf')
-        self.remote_ready   = True
-        self.timezone       = "IST (UTC+5:30) — flexible for global teams"
-
-    def value_add(self) -> list:
-        return [
-            "◆  Freelance experience  →  real clients, real deadlines",
-            "◆  Full-stack + mobile + security  =  rare combo at intern level",
-            "◆  Bug bounty mindset  →  attacker thinking in every line of code",
-            "◆  DevSecOps track  →  security baked into the pipeline, not bolted on",
-        ]
-
-me = Nithin()
-for v in me.value_add(): print(v)
-```
+| | |
+|---|---|
+| 🛡️ **Security-aware developer** | I build and break — bug bounty mindset baked into every line of code, not bolted on after |
+| 🚀 **Full-stack + Security** | Frontend, backend, mobile, and pentesting |
+| 📦 **Freelance-tested** | Real clients, real deadlines. Delivery-focused — shipping on time is non-negotiable |
+| 🌏 **Remote-ready** | IST (UTC+5:30), flexible for global teams. Async-first and well-documented |
 
 ---
+
+![Location](https://img.shields.io/badge/📍%20Karnataka%2C%20India-21262d?style=flat-square)
+![Status](https://img.shields.io/badge/💼%20Open%20to%20Internships-1a3a1a?style=flat-square)
+![Remote](https://img.shields.io/badge/🌐%20Remote%20%2F%20Hybrid-21262d?style=flat-square)
+![Timezone](https://img.shields.io/badge/⏱%20IST%20·%20UTC%2B5:30-21262d?style=flat-square)
+
+--- -->
 
 <!--  C O N T A C T  -->
 
@@ -283,14 +245,21 @@ for v in me.value_add(): print(v)
 
 <br/>
 
-<!-- F O O T E R -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:e8c46a,50:d4a843,100:e8c46a&height=2&section=footer"/>
+---
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:050a14,40:0a0e1a,80:0a1020,100:050a14&height=100&section=footer&text=Building%20secure%2C%20performant%20products.%20One%20commit%20at%20a%20time.&fontSize=14&fontColor=8ba3c7&fontAlignY=50&animation=fadeIn"/>
+*Building secure, performant products. *
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nithinkr06)
+[![GitHub](https://img.shields.io/badge/GitHub-21262d?style=flat-square&logo=github&logoColor=white)](https://github.com/NITHINKR06)
+[![Gmail](https://img.shields.io/badge/Gmail-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nithinpoojari717@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-e4405f?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/_nithin.kr_)
+
+<br/>
+
+© 2025 Nithin Poojary &nbsp;·&nbsp; Made with ❤️ &nbsp;·&nbsp; Open to opportunities
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:e8c46a,50:d4a843,100:e8c46a&height=2&section=footer"/>
