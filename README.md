@@ -42,11 +42,7 @@
 
 </div>
 
-<br/>
-
 ---
-
-<br/>
 
 <!--  A B O U T  -->
 
@@ -71,11 +67,7 @@ contact    : nithinpoojari717@gmail.com
 
 <br clear="right"/>
 
-<br/>
-
 ---
-
-<br/>
 
 <!--  C U R R E N T  F O C U S  -->
 
@@ -124,11 +116,7 @@ contact    : nithinpoojari717@gmail.com
 
 </div>
 
-<br/>
-
 ---
-
-<br/>
 
 <!--  S K I L L S  -->
 
@@ -171,11 +159,7 @@ contact    : nithinpoojari717@gmail.com
 
 </details>
 
-<br/>
-
 ---
-
-<br/>
 
 <!--  A N A L Y T I C S  -->
 
@@ -201,11 +185,7 @@ contact    : nithinpoojari717@gmail.com
 
 </div>
 
-<br/>
-
 ---
-
-<br/>
 
 <!--  T R O P H I E S  -->
 
@@ -220,11 +200,7 @@ contact    : nithinpoojari717@gmail.com
 
 </div>
 
-<br/>
-
 ---
-
-<br/>
 
 <!--  A C T I V I T Y  -->
 
@@ -239,11 +215,7 @@ contact    : nithinpoojari717@gmail.com
 
 </div>
 
-<br/>
-
 ---
-
-<br/>
 
 <!--  V A L U E  -->
 
@@ -273,11 +245,7 @@ me = Nithin()
 for v in me.value_add(): print(v)
 ```
 
-<br/>
-
 ---
-
-<br/>
 
 <!--  C O N T A C T  -->
 
@@ -299,11 +267,7 @@ for v in me.value_add(): print(v)
 
 </div>
 
-<br/>
-
 ---
-
-<br/>
 
 <!-- S N A K E -->
 
