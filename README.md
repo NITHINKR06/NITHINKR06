@@ -39,12 +39,7 @@
 
 <!--  A B O U T  -->
 
-<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=NITHINKR06&show_icons=true&hide_border=true&count_private=true&bg_color=0a0e1a&title_color=e8c46a&icon_color=d4a843&text_color=8ba3c7&include_all_commits=true&rank_icon=github"/>
-
-<h3>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="28"/>
-  &nbsp;About Me
-</h3>
+### 👨‍💻 &nbsp;About Me
 
 ```yaml
 name       : Nithin Poojary
@@ -58,7 +53,7 @@ timezone   : IST UTC+5:30 — globally flexible
 contact    : nithinpoojari717@gmail.com
 ```
 
-<br clear="right"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NITHINKR06&show_icons=true&hide_border=true&count_private=true&bg_color=161b22&title_color=e8c46a&icon_color=3fb950&text_color=8b949e&include_all_commits=true&rank_icon=github)
 
 ---
 
