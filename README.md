@@ -11,13 +11,6 @@ Full Stack Developer • Cyber Security
 
 <br/>
 
----
-
-<h3 align="left">🛠️ Tech Arsenal</h3>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,tailwind,html,css,flutter,vite,nodejs,express,python,flask,fastapi,django,mongodb,mysql,postgres,redis,firebase,supabase,prisma,linux,bash,aws,azure,gcp,docker,kubernetes,githubactions,gitlab,cloudflare,git,github,vscode,figma,postman,vercel,netlify,jest,graphql,redux,webpack,threejs&theme=dark&perline=12" />
-</div>
 <!--  A N A L Y T I C S  -->
 
 <h3>
@@ -43,6 +36,13 @@ Full Stack Developer • Cyber Security
 </div>
 
 ---
+
+<h3 align="left">🛠️ Tech Arsenal</h3>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,tailwind,html,css,flutter,vite,nodejs,express,python,flask,fastapi,django,mongodb,mysql,postgres,redis,firebase,supabase,prisma,linux,bash,aws,azure,gcp,docker,kubernetes,githubactions,gitlab,cloudflare,git,github,vscode,figma,postman,vercel,netlify,jest,graphql,redux,webpack,threejs&theme=dark&perline=12" />
+</div>
+
 
 <!--  T R O P H I E S  -->
 
