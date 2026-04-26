@@ -46,7 +46,7 @@ Full Stack Developer • Cyber Security
 
 <!--  T R O P H I E S  -->
 
-<h3>
+<!-- <h3>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="28"/>
   &nbsp;Achievements
 </h3>
@@ -55,7 +55,16 @@ Full Stack Developer • Cyber Security
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=NITHINKR06&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-</div>
+</div> -->
+
+<h3 align="left">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="28"/>
+  &nbsp;Achievements
+</h3>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=NITHINKR06&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=7" />
+</p>
 
 ---
 
