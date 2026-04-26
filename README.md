@@ -57,14 +57,14 @@ Full Stack Developer • Cyber Security
 
 </div> -->
 
-<h3 align="left">
+<!-- <h3 align="left">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="28"/>
   &nbsp;Achievements
 </h3>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=NITHINKR06&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=7" />
-</p>
+</p> -->
 
 ---
 
