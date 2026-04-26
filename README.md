@@ -1,26 +1,9 @@
 
-### 🛠️ &nbsp;Tech Arsenal
+<h3 align="left">🛠️ Tech Arsenal</h3>
 
-<!-- > *Icons marked — actively learning or planning to learn. Update anytime.* -->
-
-**🖥️ Frontend & Mobile**
-
-[![Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,tailwind,html,css,flutter,vite&theme=dark&perline=10)](https://skillicons.dev)
-
-**⚙️ Backend & Databases**
-
-[![Skills](https://skillicons.dev/icons?i=nodejs,express,python,flask,fastapi,django,mongodb,mysql,postgres,redis,firebase,supabase,prisma&theme=dark&perline=10)](https://skillicons.dev)
-
-**🛡️ Cybersecurity & DevSecOps**
-
-[![Skills](https://skillicons.dev/icons?i=linux,bash,aws,azure,gcp,docker,kubernetes,githubactions,gitlab,cloudflare&theme=dark&perline=10)](https://skillicons.dev)
-
-**🔧 Tools & Others**
-
-[![Skills](https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel,netlify,jest,graphql,redux,webpack,threejs&theme=dark&perline=10)](https://skillicons.dev)
-
----
-
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,tailwind,html,css,flutter,vite,nodejs,express,python,flask,fastapi,django,mongodb,mysql,postgres,redis,firebase,supabase,prisma,linux,bash,aws,azure,gcp,docker,kubernetes,githubactions,gitlab,cloudflare,git,github,vscode,figma,postman,vercel,netlify,jest,graphql,redux,webpack,threejs&theme=dark&perline=12" />
+</div>
 <!--  A N A L Y T I C S  -->
 
 <h3>
