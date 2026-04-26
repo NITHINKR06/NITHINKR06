@@ -1,3 +1,17 @@
+<h1 align="left">Nithin K R</h1>
+
+<p align="left">
+Full Stack Developer • Cyber Security
+</p>
+
+<p align="left">
+🚀 15+ Projects • 💻 2+ Years Experience • 🛡️ Security-Focused <br/>
+📍 Karnataka, India • Open to opportunities
+</p>
+
+<br/>
+
+---
 
 <h3 align="left">🛠️ Tech Arsenal</h3>
 
