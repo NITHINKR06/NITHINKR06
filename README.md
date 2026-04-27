@@ -13,10 +13,10 @@ Full Stack Developer • Cyber Security
 
 <!--  A N A L Y T I C S  -->
 
-<h3>
+<!-- <h3>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28"/>
   &nbsp;GitHub Analytics
-</h3>
+</h3> -->
 
 <div align="center">
 
@@ -66,11 +66,11 @@ Full Stack Developer • Cyber Security
   <img src="https://github-profile-trophy.vercel.app/?username=NITHINKR06&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=7" />
 </p> -->
 
----
+
 
 <!--  A C T I V I T Y  -->
 
-<h3>
+<!-- <h3>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="28"/>
   &nbsp;Contribution Activity
 </h3>
@@ -79,7 +79,7 @@ Full Stack Developer • Cyber Security
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NITHINKR06&bg_color=0a0e1a&color=e8c46a&line=d4a843&point=ffffff&area=true&area_color=1a2540&hide_border=true&radius=0)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-</div>
+</div> -->
 
 ---
 
