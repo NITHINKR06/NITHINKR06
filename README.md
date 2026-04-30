@@ -1,12 +1,13 @@
 <h1 align="center">Nithin K R</h1>
 
 <p align="center">
-Full Stack Developer • Cyber Security
+  <b>Full Stack Developer</b> &nbsp;•&nbsp; <b>Cyber Security Enthusiast</b>
 </p>
 
 <p align="center">
-🚀 15+ Projects • 💻 2+ Years Experience • 🛡️ Security-Focused <br/>
-📍 Karnataka, India • Open to opportunities
+  <img src="https://img.shields.io/badge/Projects-15%2B-blue?style=flat-square&logo=github" alt="Projects" />
+  <img src="https://img.shields.io/badge/Experience-2%2B%20Years-green?style=flat-square&logo=code" alt="Experience" />
+  <img src="https://img.shields.io/badge/Security-Focused-critical?style=flat-square&logo=shield" alt="Security" />
 </p>
 
 <br/>
