@@ -69,9 +69,7 @@
 
 <br/>
 
----
-
-<div align="center">
+<!-- <div align="center">
 
 *Building secure, performant products. *
 
@@ -86,4 +84,4 @@
 
 © 2025 Nithin Poojary &nbsp;·&nbsp; Made with ❤️ &nbsp;·&nbsp; Open to opportunities
 
-</div>
+</div> -->
