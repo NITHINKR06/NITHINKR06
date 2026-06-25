@@ -1,8 +1,8 @@
 <h1 align="center">Nithin K R</h1>
 
 <p align="center">
-  <b>Full Stack Developer</b> &nbsp;•&nbsp; <b>Cyber Security Enthusiast</b>
-  Intern @Melsta Studio
+  <b>Full Stack Developer</b> &nbsp;•&nbsp; <b>Cyber Security Enthusiast</b>  &nbsp;•&nbsp; 
+  <b>Intern @Melsta Studio</b>
 </p>
 
 <p align="center">
