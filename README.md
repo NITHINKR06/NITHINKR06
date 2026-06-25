@@ -2,6 +2,7 @@
 
 <p align="center">
   <b>Full Stack Developer</b> &nbsp;•&nbsp; <b>Cyber Security Enthusiast</b>
+  Intern @Melsta Studio
 </p>
 
 <p align="center">
