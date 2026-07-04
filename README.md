@@ -51,7 +51,7 @@
 | GitHub | [github.com/NITHINKR06](https://github.com/NITHINKR06) |
 | Email | [nithinpoojari717@gmail.com](mailto:nithinpoojari717@gmail.com) |
 | Instagram | [@_nithin.kr_](https://instagram.com/_nithin.kr_) |
-| Portfolio | [nithinkr06.vercel.app](https://nithinkr06.vercel.app) |
+| Portfolio | [nithinkr06.vercel.app](https://nithinkr.vercel.app) |
 
 </div>
 
