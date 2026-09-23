@@ -35,7 +35,7 @@
 </div>
 
 <!--  C O N T A C T  -->
-
+<!--
 <h3>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone%20Receiver.png" width="28"/>
   &nbsp;Let's Connect
@@ -54,8 +54,9 @@
 | Portfolio | [nithinkr06.vercel.app](https://nithinkr.vercel.app) |
 
 </div>
-
 ---
+-->
+
 
 <!-- S N A K E -->
 
