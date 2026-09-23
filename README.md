@@ -13,6 +13,15 @@
 
 <br/>
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/nithinkr06/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="profile of LinkedIn with username Nithin K R" /></a>
+<a href="https://dev.to/nithinkr06"><img src="https://img.shields.io/badge/dev.to-d5d5d5?style=for-the-badge&logo=devdotto&logoColor=0A0209" alt="profile of Dev.to with username nithinkr" /></a>
+<a href="http://nithinkr.vercel.app/"><img src="https://img.shields.io/badge/portfolio-d5d5d5?style=for-the-badge&logo=Portfolio&logoColor=0A0209" alt="portfolio of Nithin K R" /></a>
+<a href="https://medium.com/@nithinkr"><img src="https://img.shields.io/badge/medium-d5d5d5?style=for-the-badge&logo=Medium&logoColor=0A0209" alt="medium profile of Nithin K R" /></a>
+<a href="mailto:nithinpoojari717@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="email of Anmol i.e.   nithinpoojari717@gmail.com" /></a>
+</div>
+<br>
+
 <!--  A N A L Y T I C S  -->
 
 <div align="center">
